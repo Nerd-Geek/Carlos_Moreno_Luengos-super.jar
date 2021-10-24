@@ -24,4 +24,5 @@ Primera_Practica_Accesos
 
 ## Autores
 Creado y 💻 codificado por: Carlos Moreno y Angel Mateo
-![Meteorlogía-Contaminacion][https://github.com/Nerd-Geek/Carlos_Moreno_Luengos-super.jar](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AOcticons-mark-github.svg&psig=AOvVaw05H7i5kRyDPuCquUbGyFHb&ust=1635198519202000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCrlqmD5PMCFQAAAAAdAAAAABAD)
+
+![Meteorlogía-Contaminacion](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AOcticons-mark-github.svg&psig=AOvVaw05H7i5kRyDPuCquUbGyFHb&ust=1635198519202000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCrlqmD5PMCFQAAAAAdAAAAABAD)

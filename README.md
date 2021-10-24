@@ -25,4 +25,4 @@ Primera_Practica_Accesos
 ## Autores
 Creado y 💻 codificado por: Carlos Moreno y Angel Mateo
 
-![Meteorlogía-Contaminacion](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png)
+![Meteorlogía-Contaminacion](https://www.shareicon.net/data/128x128/2017/03/07/880593_media_512x512.png)

@@ -25,6 +25,6 @@ Primera_Practica_Accesos
 ## Autores
 Creado y 💻 codificado por: Carlos Moreno y Angel Mateo
 
-![Meteorlogía-Contaminacion](https://www.shareicon.net/data/128x128/2017/03/07/880593_media_512x512.png)
-<https://github.com/Nerd-Geek>
+![<https://github.com/Nerd-Geek>](https://www.shareicon.net/data/128x128/2017/03/07/880593_media_512x512.png)
+
 <https://github.com/Madirex>
